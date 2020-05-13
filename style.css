@@ -73,3 +73,7 @@ form input[type="text"] {
     color: red;
     display: block;
 }
+
+.result-line {
+    display: block;
+}
